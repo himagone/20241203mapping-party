@@ -5,7 +5,7 @@
       "id": "20241203mapping-party-team1",
       "title": "チーム1",
       "iconUrl": "",
-      "url": "https://raw.githubusercontent.com/qchizu/20241203mapping-party/refs/heads/main/data/test.geojson",
+      "url": "https://raw.githubusercontent.com/himagone/20241203mapping-party/refs/heads/main/data/team1.geojson",
       "subdomains": "",
       "attribution": "チーム１",
       "errorTileUrl": "",
